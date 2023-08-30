@@ -6,6 +6,6 @@ Created on Tue Aug 29 21:21:07 2023
 @author: hyunhwakim
 """
 
-a=1
+a=3
 b=2
 a+b
